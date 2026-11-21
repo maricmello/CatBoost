@@ -20,7 +20,7 @@ A técnica foi testada num problema real de **previsão de cancelamento de clien
 
 | Aluna | Professor | Tema |
 |:--|:--|:--|
-| Mariana Costa de Mello | Me. Mateus Guilherme Fuini | CatBoost |
+| Mariana Costa de Mello | Mateus Guilherme Fuini | CatBoost |
 
 ## Principais resultados
 
